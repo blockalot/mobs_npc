@@ -1,0 +1,57 @@
+# 💁‍♀️ NPC Skins
+
+| Skin | Dateiname |
+| ------- | -------- |
+| <img src="textures/mobs_igor.png" alt="mobs_igor.png" width="400"/> | mobs_igor.png |
+| <img src="textures/mobs_igor2.png" alt="mobs_igor2.png" width="400"/> | mobs_igor2.png |
+| <img src="textures/mobs_igor3.png" alt="mobs_igor3.png" width="400"/> | mobs_igor3.png |
+| <img src="textures/mobs_igor4.png" alt="mobs_igor4.png" width="400"/> | mobs_igor4.png |
+| <img src="textures/mobs_igor5.png" alt="mobs_igor5.png" width="400"/> | mobs_igor5.png |
+| <img src="textures/mobs_igor6.png" alt="mobs_igor6.png" width="400"/> | mobs_igor6.png |
+| <img src="textures/mobs_igor7.png" alt="mobs_igor7.png" width="400"/> | mobs_igor7.png |
+| <img src="textures/mobs_igor8.png" alt="mobs_igor8.png" width="400"/> | mobs_igor8.png |
+| <img src="textures/mobs_npc.png" alt="mobs_npc.png" width="400"/> | mobs_npc.png |
+| <img src="textures/mobs_npc2.png" alt="mobs_npc2.png" width="400"/> | mobs_npc2.png |
+| <img src="textures/mobs_npc3.png" alt="mobs_npc3.png" width="400"/> | mobs_npc3.png |
+| <img src="textures/mobs_npc4.png" alt="mobs_npc4.png" width="400"/> | mobs_npc4.png |
+| <img src="textures/mobs_npc5.png" alt="mobs_npc5.png" width="400"/> | mobs_npc5.png |
+| <img src="textures/mobs_npc6.png" alt="mobs_npc6.png" width="400"/> | mobs_npc6.png |
+| <img src="textures/mobs_npc_baby.png" alt="mobs_npc_baby.png" width="400"/> | mobs_npc_baby.png |
+| <img src="textures/mobs_npc_roman_10_4.png" alt="mobs_npc_roman_10_4.png" width="400"/> | mobs_npc_roman_10_4.png |
+| <img src="textures/mobs_npc_roman_15_1.png" alt="mobs_npc_roman_15_1.png" width="400"/> | mobs_npc_roman_15_1.png |
+| <img src="textures/mobs_npc_roman_15_4.png" alt="mobs_npc_roman_15_4.png" width="400"/> | mobs_npc_roman_15_4.png |
+| <img src="textures/mobs_npc_roman_16_3.png" alt="mobs_npc_roman_16_3.png" width="400"/> | mobs_npc_roman_16_3.png |
+| <img src="textures/mobs_npc_roman_17_3.png" alt="mobs_npc_roman_17_3.png" width="400"/> | mobs_npc_roman_17_3.png |
+| <img src="textures/mobs_npc_roman_17_4.png" alt="mobs_npc_roman_17_4.png" width="400"/> | mobs_npc_roman_17_4.png |
+| <img src="textures/mobs_npc_roman_18_2.png" alt="mobs_npc_roman_18_2.png" width="400"/> | mobs_npc_roman_18_2.png |
+| <img src="textures/mobs_npc_roman_18_4.png" alt="mobs_npc_roman_18_4.png" width="400"/> | mobs_npc_roman_18_4.png |
+| <img src="textures/mobs_npc_roman_1_1.png" alt="mobs_npc_roman_1_1.png" width="400"/> | mobs_npc_roman_1_1.png |
+| <img src="textures/mobs_npc_roman_1_3.png" alt="mobs_npc_roman_1_3.png" width="400"/> | mobs_npc_roman_1_3.png |
+| <img src="textures/mobs_npc_roman_23_2.png" alt="mobs_npc_roman_23_2.png" width="400"/> | mobs_npc_roman_23_2.png |
+| <img src="textures/mobs_npc_roman_34_4.png" alt="mobs_npc_roman_34_4.png" width="400"/> | mobs_npc_roman_34_4.png |
+| <img src="textures/mobs_npc_roman_35_1.png" alt="mobs_npc_roman_35_1.png" width="400"/> | mobs_npc_roman_35_1.png |
+| <img src="textures/mobs_npc_roman_35_2.png" alt="mobs_npc_roman_35_2.png" width="400"/> | mobs_npc_roman_35_2.png |
+| <img src="textures/mobs_npc_roman_36_3.png" alt="mobs_npc_roman_36_3.png" width="400"/> | mobs_npc_roman_36_3.png |
+| <img src="textures/mobs_npc_roman_36_4.png" alt="mobs_npc_roman_36_4.png" width="400"/> | mobs_npc_roman_36_4.png |
+| <img src="textures/mobs_npc_roman_37_2.png" alt="mobs_npc_roman_37_2.png" width="400"/> | mobs_npc_roman_37_2.png |
+| <img src="textures/mobs_npc_roman_37_3.png" alt="mobs_npc_roman_37_3.png" width="400"/> | mobs_npc_roman_37_3.png |
+| <img src="textures/mobs_npc_roman_39_3.png" alt="mobs_npc_roman_39_3.png" width="400"/> | mobs_npc_roman_39_3.png |
+| <img src="textures/mobs_npc_roman_3_1.png" alt="mobs_npc_roman_3_1.png" width="400"/> | mobs_npc_roman_3_1.png |
+| <img src="textures/mobs_npc_roman_40_3.png" alt="mobs_npc_roman_40_3.png" width="400"/> | mobs_npc_roman_40_3.png |
+| <img src="textures/mobs_npc_roman_42_1.png" alt="mobs_npc_roman_42_1.png" width="400"/> | mobs_npc_roman_42_1.png |
+| <img src="textures/mobs_npc_roman_44_2.png" alt="mobs_npc_roman_44_2.png" width="400"/> | mobs_npc_roman_44_2.png |
+| <img src="textures/mobs_npc_roman_45_1.png" alt="mobs_npc_roman_45_1.png" width="400"/> | mobs_npc_roman_45_1.png |
+| <img src="textures/mobs_npc_roman_45_2.png" alt="mobs_npc_roman_45_2.png" width="400"/> | mobs_npc_roman_45_2.png |
+| <img src="textures/mobs_npc_roman_47_1.png" alt="mobs_npc_roman_47_1.png" width="400"/> | mobs_npc_roman_47_1.png |
+| <img src="textures/mobs_npc_roman_47_2.png" alt="mobs_npc_roman_47_2.png" width="400"/> | mobs_npc_roman_47_2.png |
+| <img src="textures/mobs_npc_roman_48_2.png" alt="mobs_npc_roman_48_2.png" width="400"/> | mobs_npc_roman_48_2.png |
+| <img src="textures/mobs_npc_roman_48_4.png" alt="mobs_npc_roman_48_4.png" width="400"/> | mobs_npc_roman_48_4.png |
+| <img src="textures/mobs_npc_roman_4_1.png" alt="mobs_npc_roman_4_1.png" width="400"/> | mobs_npc_roman_4_1.png |
+| <img src="textures/mobs_npc_roman_4_3.png" alt="mobs_npc_roman_4_3.png" width="400"/> | mobs_npc_roman_4_3.png |
+| <img src="textures/mobs_npc_roman_5_3.png" alt="mobs_npc_roman_5_3.png" width="400"/> | mobs_npc_roman_5_3.png |
+| <img src="textures/mobs_npc_roman_9_1.png" alt="mobs_npc_roman_9_1.png" width="400"/> | mobs_npc_roman_9_1.png |
+| <img src="textures/mobs_npc_roman_9_2.png" alt="mobs_npc_roman_9_2.png" width="400"/> | mobs_npc_roman_9_2.png |
+| <img src="textures/mobs_trader.png" alt="mobs_trader.png" width="400"/> | mobs_trader.png |
+| <img src="textures/mobs_trader2.png" alt="mobs_trader2.png" width="400"/> | mobs_trader2.png |
+| <img src="textures/mobs_trader3.png" alt="mobs_trader3.png" width="400"/> | mobs_trader3.png |
+| <img src="textures/mobs_trader4.png" alt="mobs_trader4.png" width="400"/> | mobs_trader4.png |
